@@ -1,0 +1,44 @@
+{
+	"name": "subliminal",
+	"displayName": "Subliminal",
+	"description": "An opinionated minimalistic VS Code theme for JavaScript inspired by Sublime Text Spacegray theme",
+	"license": "SEE LICENSE IN LICENSE",
+	"version": "1.0.0",
+	"publisher": "gaearon",
+	"preview": true,
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"icon": "icon.png",
+	"keywords": [
+		"theme",
+		"minimal",
+		"oceanic",
+		"dark",
+		"sublime"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gaearon/subliminal.git"
+	},
+	"bugs": {
+		"url": "https://github.com/gaearon/subliminal/issues"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Subliminal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Subliminal-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "06e5aaf2-85ae-4d7e-abe1-4d2975a80171",
+		"publisherId": "52f2795b-8532-4ee0-bf02-6da72de791a5",
+		"publisherDisplayName": "Dan Abramov"
+	}
+}

@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\user\hw2arraysort\.idea\misc.xml" timestamp="1583392296679" />
+    <file path="C:\Users\user\hw2arraysort\.idea\modules.xml" timestamp="1583392296690" />
+    <file path="C:\Users\user\hw2arraysort\.idea\workspace.xml" timestamp="1583403795601" />
+    <file path="C:\Users\user\hw2arraysort\hw2arraysort.iml" timestamp="1583392296655" />
+  </project-files>
+</conversion>

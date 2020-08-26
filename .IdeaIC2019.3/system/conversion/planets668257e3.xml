@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\user\planets\planets.iml" timestamp="1583407522381" />
+    <file path="C:\Users\user\planets\.idea\misc.xml" timestamp="1583407522396" />
+    <file path="C:\Users\user\planets\.idea\modules.xml" timestamp="1583407522406" />
+    <file path="C:\Users\user\planets\.idea\workspace.xml" timestamp="1585649164778" />
+  </project-files>
+</conversion>

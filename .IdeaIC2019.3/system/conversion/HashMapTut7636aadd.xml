@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\user\HashMapTut\.idea\misc.xml" timestamp="1587760914739" />
+    <file path="C:\Users\user\HashMapTut\.idea\modules.xml" timestamp="1587760914747" />
+    <file path="C:\Users\user\HashMapTut\HashMapTut.iml" timestamp="1587760914718" />
+    <file path="C:\Users\user\HashMapTut\.idea\workspace.xml" timestamp="1588728483169" />
+  </project-files>
+</conversion>

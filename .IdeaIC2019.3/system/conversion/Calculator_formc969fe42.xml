@@ -1,0 +1,14 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\user\AppData\Local\Temp\Calculator.form\.idea\Calculator.form.iml" timestamp="1580990016521" />
+    <file path="C:\Users\user\AppData\Local\Temp\Calculator.form\.idea\modules.xml" timestamp="1580990016540" />
+    <file path="C:\Users\user\AppData\Local\Temp\Calculator.form\.idea\workspace.xml" timestamp="1580992537067" />
+  </project-files>
+</conversion>

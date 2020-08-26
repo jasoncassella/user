@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\user\snake\.idea\workspace.xml" timestamp="1591655554390" />
+    <file path="C:\Users\user\snake\.idea\misc.xml" timestamp="1589664054946" />
+    <file path="C:\Users\user\snake\snake.iml" timestamp="1589664054919" />
+    <file path="C:\Users\user\snake\.idea\modules.xml" timestamp="1589664054955" />
+  </project-files>
+</conversion>

@@ -1,0 +1,27 @@
+{
+	"name": "ue4-snippets",
+	"displayName": "Unreal Engine 4 Snippets",
+	"description": "Snippets for working with Unreal Engine 4 C++",
+	"version": "2.0.1",
+	"publisher": "CAPTNCAPS",
+	"repository": "https://github.com/CAPTNCAPS/ue4-snippets-vs",
+	"engines": {
+		"vscode": "^1.29.1"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "cpp",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "26e5b0bd-519a-4341-9266-270bf361a60e",
+		"publisherId": "b5798cad-923d-41b5-a491-4c24972d45e1",
+		"publisherDisplayName": "CAPTNCAPS"
+	}
+}
